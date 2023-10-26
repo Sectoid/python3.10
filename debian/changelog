@@ -1,3 +1,13 @@
+python3.10 (3.10.13-1+bookworm1) bookworm; urgency=medium
+
+  [ Anthony Sottile (deadsnakes) ]
+  * Python 3.10.13 release.
+
+  * Non-maintainer upload
+  * Rebuild for Debian Bookworm
+
+ -- Gleb Golubitsky <sectoid@gnolltech.org>  Thu, 26 Oct 2023 10:29:03 +0200
+
 python3.10 (3.10.13-1+focal1) focal; urgency=medium
 
   * Python 3.10.13 release.
